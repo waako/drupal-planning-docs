@@ -1,4 +1,4 @@
-drupal-planning-docs
+Drupal Planning Docs
 ====================
 
 Set of documents to help you plan or document a Drupal project
